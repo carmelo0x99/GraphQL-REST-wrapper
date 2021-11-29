@@ -1,4 +1,5 @@
-### A GraphQL "wrapper" to query a REST API
+# GraphQL-REST-wrapper
+A GraphQL "wrapper" to query a REST API
 
 source: `https://ariadnegraphql.org/docs/intro`
 
