@@ -1,0 +1,13 @@
+type Query {
+    hello: String!
+    user: User
+    router: Cisco
+}
+
+type User {
+    username: String!
+}
+
+type Cisco {
+    router: String!
+}
